@@ -11,10 +11,14 @@ fun main() {
                     webScraper.fetchStockList(StockList.STOXX600) +
                     webScraper.fetchStockList(StockList.NASDAQ_100) +
                     webScraper.fetchStockList(StockList.SP_500) +
-                    webScraper.fetchStockList(StockList.DJIA))
+                    webScraper.fetchStockList(StockList.DJIA) +
+                    webScraper.fetchStockList(StockList.DAX) +
+                    webScraper.fetchStockList(StockList.CAC) +
+                    webScraper.fetchStockList(StockList.SBF_250)
+            )
         .distinctBy { it.id }
 
-    println("Positive Stocks")
+    println("Bullish Stocks")
     println("========================================")
     stockList
         .filter { it.monitorValue == MonitorValue.POSITIVE }
@@ -24,7 +28,7 @@ fun main() {
         .forEach { printStock(it) }
 
     println()
-    println("Negative Stocks")
+    println("Bearish Stocks")
     println("========================================")
     stockList
         .filter { it.monitorValue == MonitorValue.NEGATIVE }

@@ -12,7 +12,10 @@ enum class StockList(val url: String) {
     STOXX600(BASE_URL + "kurse/aktien/europa/stoxx-600"),
     NASDAQ_100(BASE_URL + "kurse/aktien/usa-und-kanada/nasdaq-100"),
     SP_500(BASE_URL + "kurse/aktien/usa-und-kanada/sp500"),
-    DJIA(BASE_URL + "kurse/aktien/usa-und-kanada/djia")
+    DJIA(BASE_URL + "kurse/aktien/usa-und-kanada/djia"),
+    DAX(BASE_URL + "kurse/aktien/uebersicht-welt-indices/dax-index-xetra"),
+    CAC(BASE_URL + "kurse/aktien/uebersicht-welt-indices/cac-40"),
+    SBF_250(BASE_URL + "kurse/aktien/frankreich/sbf-250-index-stocks")
 }
 
 class WebScraper {
