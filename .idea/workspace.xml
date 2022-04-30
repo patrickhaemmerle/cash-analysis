@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f04de5b-118b-4593-9539-14eab8d4f424" name="Changes" comment="More Lists">
-      <change afterPath="$PROJECT_DIR$/history/22-04-22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/history/last.txt" afterDir="false" />
+    <list default="true" id="6f04de5b-118b-4593-9539-14eab8d4f424" name="Changes" comment="Update List">
+      <change afterPath="$PROJECT_DIR$/history/22-04-29.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/history/22-04-22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-04-28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/history/last.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/last.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650916563495</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update List">
+      <created>1651174452537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651174452537</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +154,7 @@
     <MESSAGE value="Project Init" />
     <MESSAGE value="Initial version" />
     <MESSAGE value="More Lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="More Lists" />
+    <MESSAGE value="Update List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update List" />
   </component>
 </project>
