@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f04de5b-118b-4593-9539-14eab8d4f424" name="Changes" comment="Update List">
-      <change afterPath="$PROJECT_DIR$/history/22-04-29.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-04-22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-04-28.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/last.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/last.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/history/last.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05-02.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651174452537</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update List">
+      <created>1651352932012</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651352932012</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
