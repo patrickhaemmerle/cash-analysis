@@ -1,0 +1,19 @@
+Bullish Stocks
+========================================
+  FNTN - freenet N - https://www.cash.ch/aktien/freenet-n-10575025/etr/eur
+  IGG - IG Group Hdgs Rg - https://www.cash.ch/aktien/ig-group-hdgs-rg-2130410/lss/gbp
+  SSE - SSE Rg - https://www.cash.ch/aktien/sse-rg-389233/lss/gbp
+  TEF - Telefonica Br - https://www.cash.ch/aktien/telefonica-br-826858/stn/eur
+  MO - Altria Group Rg - https://www.cash.ch/aktien/altria-group-rg-1331740/usc/usd
+  XOM - Exxon Mobil Rg - https://www.cash.ch/aktien/exxon-mobil-rg-808963/usc/usd
+* BOI - Boiron - https://www.cash.ch/aktien/boiron-487646/epa/eur
+  SCHP - Seche Environ - https://www.cash.ch/aktien/seche-environ-831113/epa/eur
+
+Bearish Stocks
+========================================
+  DHER - Delivery Hero N - https://www.cash.ch/aktien/delivery-hero-n-37200572/etr/eur
+  ONT - Oxford Nan Tech Rg - https://www.cash.ch/aktien/oxford-nan-tech-rg-23783705/lss/gbp
+  DOCU - DocuSign Rg - https://www.cash.ch/aktien/docusign-rg-41193881/nms/usd
+  OKTA - Okta - https://www.cash.ch/aktien/okta-a-rg-36082513/nms/usd
+  DBV - DBV Techno - https://www.cash.ch/aktien/dbv-techno-2857349/epa/eur
+  SIGHT - Gensight Biolo. - https://www.cash.ch/aktien/gensight-biolo.-33180044/epa/eur
