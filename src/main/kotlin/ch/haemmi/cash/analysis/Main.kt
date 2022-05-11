@@ -1,5 +1,6 @@
 package ch.haemmi.cash.analysis
 
+import java.text.SimpleDateFormat
 import java.util.*
 import java.util.concurrent.TimeUnit
 
@@ -25,6 +26,8 @@ fun main() {
         .filter { it.getDetails().chanceValue == ChanceValue.FOUR }
         .filter { it.getDetails().valuation == Valuation.STRONGLY_UNDERVALUED }
         .distinctBy { it.getDetails().symbol }
+        .sortedBy { it.getDetails().lastUpdate() }
+        .reversed()
         .forEach { printStock(it) }
 
     println()
@@ -35,12 +38,17 @@ fun main() {
         .filter { it.getDetails().chanceValue == ChanceValue.ZERO }
         .filter { it.getDetails().valuation == Valuation.STRONGLY_OVERVALUED }
         .distinctBy { it.getDetails().symbol }
+        .sortedBy { it.getDetails().lastUpdate() }
+        .reversed()
         .forEach { printStock(it) }
 }
 
 fun printStock(stock: Stock) {
+    val format = SimpleDateFormat("dd.MM.YY")
     val out = StringBuffer()
-    out.append(if (isRecent(stock.getDetails().chanceUpdate) || isRecent(stock.getDetails().monitorUpdate)) "* " else "  ")
+    out.append(if (isRecent(stock.getDetails().lastUpdate())) "* " else "  ")
+    out.append(format.format(stock.getDetails().lastUpdate()))
+    out.append(" - ")
     out.append(stock.getDetails().symbol)
     out.append(" - ")
     out.append(stock.getDetails().name)

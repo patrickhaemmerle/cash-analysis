@@ -26,7 +26,15 @@ data class StockDetails(
     val valuation: Valuation?,
     val chanceUpdate: Date?,
     val monitorUpdate: Date?
-)
+) {
+    fun lastUpdate(): Date? {
+        return if (chanceUpdate != null && chanceUpdate.after(monitorUpdate)) {
+            chanceUpdate
+        } else {
+            monitorUpdate
+        }
+    }
+}
 
 enum class MonitorValue(val value: Int) {
     NEGATIVE(-2),
