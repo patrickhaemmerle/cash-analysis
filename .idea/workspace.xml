@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f04de5b-118b-4593-9539-14eab8d4f424" name="Changes" comment="Update List">
-      <change afterPath="$PROJECT_DIR$/history/22-05-09.txt" afterDir="false" />
+    <list default="true" id="6f04de5b-118b-4593-9539-14eab8d4f424" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/history/22-05-10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/22-05-11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/last.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651812029864</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update">
+      <created>1651920414845</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651920414845</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add last update date and sort">
+      <created>1652243058531</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1652243058531</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +194,8 @@
     <MESSAGE value="Initial version" />
     <MESSAGE value="More Lists" />
     <MESSAGE value="Update List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update List" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Add last update date and sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add last update date and sort" />
   </component>
 </project>
