@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f04de5b-118b-4593-9539-14eab8d4f424" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/history/22-05-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/history/22-05-11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/history/last.txt" afterDir="false" />
+    <list default="true" id="6f04de5b-118b-4593-9539-14eab8d4f424" name="Changes" comment="Check fewer indices">
+      <change afterPath="$PROJECT_DIR$/history/22-05-13.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652243058531</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update">
+      <created>1652327798939</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652327798939</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Check fewer indices">
+      <created>1652418257071</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1652418257071</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,8 +206,9 @@
     <MESSAGE value="Initial version" />
     <MESSAGE value="More Lists" />
     <MESSAGE value="Update List" />
-    <MESSAGE value="Update" />
     <MESSAGE value="Add last update date and sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add last update date and sort" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Check fewer indices" />
+    <option name="LAST_COMMIT_MESSAGE" value="Check fewer indices" />
   </component>
 </project>
