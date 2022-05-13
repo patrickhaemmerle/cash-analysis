@@ -12,10 +12,7 @@ fun main() {
                     webScraper.fetchStockList(StockList.STOXX600) +
                     webScraper.fetchStockList(StockList.NASDAQ_100) +
                     webScraper.fetchStockList(StockList.SP_500) +
-                    webScraper.fetchStockList(StockList.DJIA) +
-                    webScraper.fetchStockList(StockList.DAX) +
-                    webScraper.fetchStockList(StockList.CAC) +
-                    webScraper.fetchStockList(StockList.SBF_250)
+                    webScraper.fetchStockList(StockList.DJIA)
             )
         .distinctBy { it.id }
 
