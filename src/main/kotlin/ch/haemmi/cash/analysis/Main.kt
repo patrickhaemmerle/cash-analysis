@@ -3,6 +3,7 @@ package ch.haemmi.cash.analysis
 import java.text.SimpleDateFormat
 import java.util.*
 import java.util.concurrent.TimeUnit
+import kotlin.streams.toList
 
 
 fun main() {
@@ -19,9 +20,11 @@ fun main() {
     println("Bullish Stocks")
     println("========================================")
     stockList
+        .parallelStream()
         .filter { it.monitorValue == MonitorValue.POSITIVE }
         .filter { it.getDetails().chanceValue == ChanceValue.FOUR }
         .filter { it.getDetails().valuation == Valuation.STRONGLY_UNDERVALUED }
+        .toList()
         .distinctBy { it.getDetails().symbol }
         .sortedBy { it.getDetails().lastUpdate() }
         .reversed()
@@ -31,9 +34,11 @@ fun main() {
     println("Bearish Stocks")
     println("========================================")
     stockList
+        .parallelStream()
         .filter { it.monitorValue == MonitorValue.NEGATIVE }
         .filter { it.getDetails().chanceValue == ChanceValue.ZERO }
         .filter { it.getDetails().valuation == Valuation.STRONGLY_OVERVALUED }
+        .toList()
         .distinctBy { it.getDetails().symbol }
         .sortedBy { it.getDetails().lastUpdate() }
         .reversed()
