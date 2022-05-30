@@ -9,8 +9,7 @@ import kotlin.streams.toList
 fun main() {
     val webScraper = WebScraper()
     val stockList = (
-            webScraper.fetchStockList(StockList.CH) +
-                    webScraper.fetchStockList(StockList.STOXX600) +
+            webScraper.fetchStockList(StockList.STOXX600) +
                     webScraper.fetchStockList(StockList.NASDAQ_100) +
                     webScraper.fetchStockList(StockList.SP_500) +
                     webScraper.fetchStockList(StockList.DJIA)

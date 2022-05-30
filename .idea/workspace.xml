@@ -9,6 +9,7 @@
       <change afterPath="$PROJECT_DIR$/history/last.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch/haemmi/cash/analysis/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch/haemmi/cash/analysis/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch/haemmi/cash/analysis/WebScraper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch/haemmi/cash/analysis/WebScraper.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653633755982</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Use prallel streams">
+      <created>1653813393306</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1653813393306</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +275,7 @@
     <MESSAGE value="Add last update date and sort" />
     <MESSAGE value="Check fewer indices" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Use prallel streams" />
+    <option name="LAST_COMMIT_MESSAGE" value="Use prallel streams" />
   </component>
 </project>
