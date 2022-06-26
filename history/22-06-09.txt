@@ -1,0 +1,14 @@
+Bullish Stocks
+========================================
+* 07.06.22 - MRK - Merck Rg - https://www.cash.ch/aktien/merck-rg-10683053/usc/usd
+* 07.06.22 - 1735299 -  - https://www.cash.ch/aktien/yara-internation-br-1735299/osl/nok
+* 07.06.22 - SAN - Sanofi - https://www.cash.ch/aktien/sanofi-699381/epa/eur
+* 07.06.22 - KPN - Koninkl KPN Br Rg - https://www.cash.ch/aktien/koninkl-kpn-br-rg-1076509/eam/eur
+  03.06.22 - T - AT&T Rg - https://www.cash.ch/aktien/at%26t-rg-2342429/usc/usd
+  24.05.22 - BT.A - BT Group Rg - https://www.cash.ch/aktien/bt-group-rg-1292393/lss/gbp
+  20.05.22 - GLEN - Glencore Rg - https://www.cash.ch/aktien/glencore-rg-12964057/lss/gbp
+  17.05.22 - OGN - Organon Rg - https://www.cash.ch/aktien/organon-rg-111523364/usc/usd
+
+Bearish Stocks
+========================================
+  29.04.22 - OKTA - Okta - https://www.cash.ch/aktien/okta-a-rg-36082513/nms/usd

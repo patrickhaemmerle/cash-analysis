@@ -5,31 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f04de5b-118b-4593-9539-14eab8d4f424" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/history/22-06-08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/22-06-09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/last.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-04-28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-04/22-04-28.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-04-29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-04/22-04-29.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-02.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-04.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-05.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-06.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-09.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-16.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-18.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-19.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-20.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-23.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-25.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-27.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-30.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history/22-05-31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/history/22-05/22-05-31.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +71,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/history/22-05" />
+      <recent name="$PROJECT_DIR$/history/22-04" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <output_file path="$PROJECT_DIR$/history/last.txt" is_save="true" />
@@ -307,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654580516512</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Update">
+      <created>1654663842642</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1654663842642</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

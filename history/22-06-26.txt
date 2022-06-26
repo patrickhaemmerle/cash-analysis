@@ -1,0 +1,14 @@
+Bullish Stocks
+========================================
+* 24.06.22 - CAG - ConAgra Foods Rg - https://www.cash.ch/aktien/conagra-foods-rg-920226/usc/usd
+* 24.06.22 - CI - Cigna Rg - https://www.cash.ch/aktien/cigna-rg-45558121/usc/usd
+* 24.06.22 - T - AT&T Rg - https://www.cash.ch/aktien/at%26t-rg-2342429/usc/usd
+* 24.06.22 - TEF - Telefonica Br - https://www.cash.ch/aktien/telefonica-br-826858/stn/eur
+* 24.06.22 - SAN - Sanofi - https://www.cash.ch/aktien/sanofi-699381/epa/eur
+* 24.06.22 - BT.A - BT Group Rg - https://www.cash.ch/aktien/bt-group-rg-1292393/lss/gbp
+  17.06.22 - ESSITY B - Essity Aktie - https://www.cash.ch/aktien/essity-aktie-b-rg-36851944/sto/sek
+  14.06.22 - KPN - Koninkl KPN Br Rg - https://www.cash.ch/aktien/koninkl-kpn-br-rg-1076509/eam/eur
+
+Bearish Stocks
+========================================
+  14.06.22 - DISH - DISH Network Rg - https://www.cash.ch/aktien/dish-network-rg-a-3715140/utc/usd
